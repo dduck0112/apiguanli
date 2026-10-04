@@ -1,0 +1,12 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.jks
+keystore.properties
+.idea/
+*.iml
+
+# Release builds are attached to GitHub Releases, not committed
+*.apk
+.kotlin/
